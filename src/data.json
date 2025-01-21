@@ -1,0 +1,376 @@
+[
+  {
+    "mac_address": "",
+    "name": "Instructor-PC",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false
+  },
+  {
+    "mac_address": "",
+    "name": "Student-1",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-2",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-3",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-4",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-5",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-6",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-7",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-8",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-9",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-10",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-11",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-12",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-13",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-14",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-15",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-16",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-17",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-18",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-19",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-20",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-21",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-22",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-23",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  },
+  {
+    "mac_address": "",
+    "name": "Student-24",
+    "status": "",
+    "screens": {},
+    "network_status": {
+      "lan_connected": false,
+      "wifi_connected": false
+    },
+    "keyboard_present": false,
+    "mouse_present": false,
+    "unreal_engine_running": false,
+    "nvidia_process_running": false,
+    "joystick_status": {}
+  }
+]
